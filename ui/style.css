@@ -6,10 +6,13 @@ body {
 
 .center {
     text-align: center;
+    colour: green
 }
 
 .text-big {
     font-size: 300%;
+
+    colour: red
 }
 
 .bold {
